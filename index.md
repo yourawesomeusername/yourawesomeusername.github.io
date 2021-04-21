@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Animated photo also works](http://example.com/)
+<img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif?raw=true"/>
 
 ---
 
